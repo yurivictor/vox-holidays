@@ -16,10 +16,10 @@ Add to your function:
 
 ```js
 // Require the library
-var are_we_off_today = require( 'vox-holidays' );
+var we_are_off_today = require( 'vox-holidays' );
 
 // Stop function if we are not working today
-if ( are_we_off_today() ) { return; }
+if ( we_are_off_today() ) { return; }
 
 // Go on with whatever you want to do
 console.log( 'We are working today.' );
