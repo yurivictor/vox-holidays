@@ -8,8 +8,8 @@ _Yes this will need to be updated yearly._
 
 Install from github:
 
-```
-npm install --save https://github.com/yurivictor/vox-holidays.git
+```bash
+$ npm install --save https://github.com/yurivictor/vox-holidays.git
 ```
 
 Add to your function:
