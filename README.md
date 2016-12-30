@@ -1,6 +1,6 @@
 # Vox Holidays
 
-A simple node module that checks if we are working today. Checks if it's a weekend or a Vox holiday.
+A simple node module that checks if it's a weekend or a Vox holiday. Useful for bots that you don't want posting messages on days we're off.
 
 _Yes this will need to be updated yearly._
 
