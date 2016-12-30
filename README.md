@@ -16,7 +16,7 @@ Add to your function:
 
 ```js
 // Require the library
-var are_we_off = require( './index.js' );
+var are_we_off = require( 'vox-holidays' );
 
 // Stop function if we are not working today
 if ( are_we_off() ) { return; }
