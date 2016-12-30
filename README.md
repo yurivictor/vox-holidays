@@ -4,7 +4,7 @@ A simple node module that checks if it's a weekend or a Vox holiday. Useful for 
 
 _Yes this will need to be updated yearly._
 
-## How to use
+## Quick start
 
 Install from github:
 
@@ -27,3 +27,47 @@ if ( are_we_off( '2017-1-2' ) ) { return; }
 // Go on with whatever you want to do
 console.log( 'We are working today.' );
 ```
+
+## Example
+
+To view the examples, clone the repo and install the dependencies:
+
+```bash
+$ git clone git://github.com/yurivictor/vox-holidays.git
+$ cd vox-holidays
+$ npm install
+```
+
+Then run the example
+
+```bash
+$ node example.js
+```
+
+## Tests
+
+Tests are in `test` folder.
+
+If you haven't already installed the dependencies
+
+```bash
+$ npm install
+```
+
+Then run the tests
+
+```bash
+$ npm test
+```
+
+## People
+
+The original author is @yurivictor.
+
+## License
+
+[BSD](LICENSE)
+
+---
+
+[back to top](#vox-holidays)

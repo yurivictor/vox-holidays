@@ -4,10 +4,10 @@
   "description": "A simple function that checks if Voxers are off work.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "author": "Yuri Victor <yuri.victor@voxmedia.com>",
-  "license": "ISC",
+  "license": "BSD",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
