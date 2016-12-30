@@ -30,7 +30,7 @@ console.log( 'We are working today.' );
 
 ## Example
 
-To view the examples, clone the repo and install the dependencies:
+To view the example, clone the repo and install the dependencies:
 
 ```bash
 $ git clone git://github.com/yurivictor/vox-holidays.git
