@@ -38,7 +38,7 @@ $ cd vox-holidays
 $ npm install
 ```
 
-Then run the example
+Then run the example:
 
 ```bash
 $ node example.js
@@ -48,13 +48,13 @@ $ node example.js
 
 Tests are in `test` folder.
 
-If you haven't already installed the dependencies
+If you haven't already installed the dependencies:
 
 ```bash
 $ npm install
 ```
 
-Then run the tests
+Then run the tests:
 
 ```bash
 $ npm test
@@ -62,7 +62,7 @@ $ npm test
 
 ## People
 
-The original author is @yurivictor.
+The original author is [@yurivictor](https://github.com/yurivictor).
 
 ## License
 
